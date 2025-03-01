@@ -1,5 +1,5 @@
 export const SITE = {
-  name: 'NotBroke',
+  name: 'NotBroke.us',
   site: 'https://notbroke.us',
   base: '/',
   trailingSlash: false,
@@ -33,5 +33,5 @@ export const APP_BLOG = {
     isEnabled: true,
     robots: true,
   },
-  postsPerPage: 6,
+  postsPerPage: 12,
 };
