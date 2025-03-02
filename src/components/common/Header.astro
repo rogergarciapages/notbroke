@@ -1,11 +1,10 @@
-import Logo from '~/assets/images/notbroke-logo.svg';
+import {Icon} from 'astro-icon/components'; import Logo from '~/assets/images/notbroke-logo.svg?url';
 
-<header class="...">
-  <div class="...">
+<header class="sticky top-0 z-40 flex-none mx-auto w-full transition-all ease-in duration-100 md:backdrop-blur-sm">
+  <div class="py-3 px-3 mx-auto w-full md:flex md:justify-between max-w-7xl md:px-4">
     <a class="flex items-center" href="/">
       <img src={Logo} alt="NotBroke.US" width="150" height="40" class="dark:invert" />
     </a>
     <!-- ... rest of header ... -->
   </div>
 </header>
-
