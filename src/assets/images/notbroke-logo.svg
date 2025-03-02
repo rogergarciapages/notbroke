@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 40">
+    <g fill="currentColor">
+        <path d="M0 0h40v40H0z" />
+        <text x="45" y="28" font-family="Arial" font-size="24" font-weight="bold">
+            notbroke<tspan fill="#2BB673">.US</tspan>
+        </text>
+    </g>
+</svg>
